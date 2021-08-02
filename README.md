@@ -18,10 +18,10 @@ Minggu 3
 - Custom Visualisasi
 - Multiple Plots
 - Perbandingan Kuantitatif
-- Seaborn dan Altair
+- Seaborn Introduction
 
 Minggu 4
-- Pengenalan Machine Learning
-- Algoritma KNN dan Model Regresi Linear
-- Evaluasi Performa dan Memilih Model
-- Preprocessing Data
+- Tipe Data, Handling Missing Value, Handling Outlier
+- Univariate, Bivariate, Multivariate Analysis
+- Machine Learning (Unsupervised, Clustering)
+- Final Project
